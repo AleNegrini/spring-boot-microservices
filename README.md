@@ -5,5 +5,10 @@ This repository offers a hands-on demonstration of building, deploying, and mana
 
 You can watch the tutorial on Youtube here - https://www.youtube.com/watch?v=mPPhcU7oWDU&t=20634s
 
+### Local infrastructure setup
 
+It's enough to run this command
 
+```
+docker-compose up
+```
