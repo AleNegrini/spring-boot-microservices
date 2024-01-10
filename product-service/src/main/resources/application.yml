@@ -1,0 +1,7 @@
+spring:
+  lifecycle:
+    timeout-per-shutdown-phase: 5s
+  application:
+    name: '@project.name@'
+  profiles:
+    active: '@activatedProperties@'
